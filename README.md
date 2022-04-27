@@ -9,3 +9,7 @@
 
 - Escrito em linguagem Python
 - IDE Pycharm
+
+>> Atualização para o projeto da DIO
+
+- Treino com os comandos
